@@ -29,15 +29,16 @@ A web-based memory game inspired by the classic Simon electronic game. Built usi
 ## File Structure
 
 📁 simon-game/
-┣ 📄 index.html ← Main structure of the game
-┣ 📄 styles.css ← Game styling
-┣ 📄 game.js ← JavaScript logic
-┗ 📁 sounds/ ← Audio files for the game
-┣ 📄 red.mp3
-┣ 📄 blue.mp3
-┣ 📄 green.mp3
-┣ 📄 yellow.mp3
-┗ 📄 wrong.mp3
+├── 📄 index.html        ← Main structure of the game  
+├── 📄 styles.css        ← Game styling  
+├── 📄 game.js           ← JavaScript logic  
+└── 📁 sounds/           ← Audio files for the game  
+    ├── 📄 red.mp3  
+    ├── 📄 blue.mp3  
+    ├── 📄 green.mp3  
+    ├── 📄 yellow.mp3  
+    └── 📄 wrong.mp3  
+
 
 ## Author
 
